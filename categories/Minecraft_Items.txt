@@ -1,0 +1,294 @@
+Apple
+Acacia Boat
+Armor Stand
+Arrow
+Baked Potato
+Banner Pattern (Creeper Charge)
+Banner Pattern (Flower Charge)
+Banner Pattern (Globe)
+Banner Pattern (Skull Charge)
+Banner Pattern (Thing)
+Bat Spawn Egg
+Beetroot
+Beetroot Seeds
+Beetroot Soup
+Birch Boat
+Black Dye
+Blaze Powder
+Blaze Rod
+Blaze Spawn Egg
+Blue Dye
+Bone
+Bone Meal
+Book
+Book and Quill
+Bottle o' Enchanting
+Bow
+Bowl
+Bread
+Brick
+Brown Dye
+Bucket
+Bucket of Cod
+Bucket of Pufferfish
+Bucket of Salmon
+Bucket of Tropical Fish
+Carrot
+Carrot on a Stick
+Cat Spawn Egg
+Cave Spider Spawn Egg
+Chainmail Boots
+Chainmail Chestplate
+Chainmail Helmet
+Chainmail Leggings
+Charcoal
+Chicken Spawn Egg
+Chorus Fruit
+Clay
+Clock
+Coal
+Cocoa Beans
+Cod Spawn Egg
+Compass
+Cooked Chicken
+Cooked Cod
+Cooked Mutton
+Cooked Porkchop
+Cooked Rabbit
+Cooked Salmon
+Cookie
+Cow Spawn Egg
+Creeper Spawn Egg
+Crossbow
+Cyan Dye
+Dark Oak Boat
+Debug Stick
+Diamond
+Diamond Axe
+Diamond Boots
+Diamond Chestplate
+Diamond Helmet
+Diamond Hoe
+Diamond Horse Armor
+Diamond Leggings
+Diamond Pickaxe
+Diamond Shovel
+Diamond Sword
+Dolphin Spawn Egg
+Donkey Spawn Egg
+Dragon's Breath
+Dried Kelp
+Drowned Spawn Egg
+Egg
+Elder Guardian Spawn Egg
+Elytra
+Emerald
+Empty Map
+Enchanted Book
+Enchanted Golden Apple
+End Crystal
+Ender Pearl
+Enderman Spawn Egg
+Endermite Spawn Egg
+Evoker Spawn Egg
+Eye of Ender
+Feather
+Fermented Spider Eye
+Fire Charge
+Firework Rocket
+Firework Star
+Fishing Rod
+Flint
+Flint and Steel
+Fox Spawn Egg
+Ghast Spawn Egg
+Ghast Tear
+Glass Bottle
+Glistering Melon Slice
+Glowstone Dust
+Gold Ingot
+Gold Nugget
+Golden Apple
+Golden Axe
+Golden Boots
+Golden Carrot
+Golden Chestplate
+Golden Helmet
+Golden Hoe
+Golden Horse Armor
+Golden Leggings
+Golden Pickaxe
+Golden Shovel
+Golden Sword
+Gray Dye
+Green Dye
+Guardian Spawn Egg
+Gunpowder
+Heart of the Sea
+Horse Spawn Egg
+Husk Spawn Egg
+Ink Sac
+Iron Axe
+Iron Boots
+Iron Chestplate
+Iron Helmet
+Iron Hoe
+Iron Horse Armor
+Iron Ingot
+Iron Leggings
+Iron Nugget
+Iron Pickaxe
+Iron Shovel
+Iron Sword
+Item Frame
+Jungle Boat
+Knowledge Book
+Lapis Lazuli
+Lava Bucket
+Lead
+Leather
+Leather Boots
+Leather Cap
+Leather Horse Armor
+Leather Pants
+Leather Tunic
+Light Blue Dye
+Light Gray Dye
+Lime Dye
+Lingering Potions
+Llama Spawn Egg
+Magenta Dye
+Magma Cream
+Magma Cube Spawn Egg
+Map or Explorer Map
+Melon Seeds
+Melon Slice
+Milk Bucket
+Minecart
+Minecart with Chest
+Minecart with Command Block
+Minecart with Furnace
+Minecart with Hopper
+Minecart with TNT
+Mooshroom Spawn Egg
+Mule Spawn Egg
+Mushroom Stew
+Music Disc (11)
+Music Disc (13)
+Music Disc (Blocks)
+Music Disc (Cat)
+Music Disc (Chirp)
+Music Disc (Far)
+Music Disc (Mall)
+Music Disc (Mellohi)
+Music Disc (Stal)
+Music Disc (Strad)
+Music Disc (Wait)
+Music Disc (Ward)
+Name Tag
+Nautilus Shell
+Nether Brick
+Nether Quartz
+Nether Star
+Nether Wart
+Oak Boat
+Ocelot Spawn Egg
+Orange Dye
+Painting
+Panda Spawn Egg
+Paper
+Parrot Spawn Egg
+Phantom Membrane
+Phantom Spawn Egg
+Pig Spawn Egg
+Pillager Spawn Egg
+Pink Dye
+Poisonous Potato
+Polar Bear Spawn Egg
+Popped Chorus Fruit
+Potato
+Potions
+Prismarine Crystals
+Prismarine Shard
+Pufferfish
+Pufferfish Spawn Egg
+Pumpkin Pie
+Pumpkin Seeds
+Purple Dye
+Rabbit Hide
+Rabbit Spawn Egg
+Rabbit Stew
+Rabbit's Foot
+Ravager Spawn Egg
+Raw Beef
+Raw Chicken
+Raw Cod
+Raw Mutton
+Raw Porkchop
+Raw Rabbit
+Raw Salmon
+Red Dye
+Redstone Dust
+Rotten Flesh
+Saddle
+Salmon Spawn Egg
+Scute
+Shears
+Sheep Spawn Egg
+Shield
+Shulker Shell
+Shulker Spawn Egg
+Silverfish Spawn Egg
+Skeleton Horse Spawn Egg
+Skeleton Spawn Egg
+Slime Spawn Egg
+Slimeball
+Snowball
+Spectral Arrow
+Spider Eye
+Spider Spawn Egg
+Splash Potions
+Spruce Boat
+Squid Spawn Egg
+Steak
+Stick
+Stone Axe
+Stone Hoe
+Stone Pickaxe
+Stone Shovel
+Stone Sword
+Stray Spawn Egg
+String
+Sugar
+Suspicious Stew
+Sweet Berries
+Tipped Arrows
+Totem of Undying
+Trader Llama Spawn Egg
+Trident
+Tropical Fish
+Tropical Fish Spawn Egg
+Turtle Shell
+Turtle Spawn Egg
+Vex Spawn Egg
+Villager Spawn Egg
+Vindicator Spawn Egg
+Wandering Trader Spawn Egg
+Water Bucket
+Wheat
+Wheat Seeds
+White Dye
+Witch Spawn Egg
+Wither Skeleton Spawn Egg
+Wolf Spawn Egg
+Wooden Axe
+Wooden Hoe
+Wooden Pickaxe
+Wooden Shovel
+Wooden Sword
+Written Book
+Yellow Dye
+Zombie Horse Spawn Egg
+Zombie Pigman Spawn Egg
+Zombie Spawn Egg
+Zombie Villager Spawn Egg
