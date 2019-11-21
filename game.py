@@ -8,14 +8,14 @@ print('start')
 bot = commands.Bot(command_prefix='!')
 client = discord.Client()
 
+BOT_KEY = ''  # put your bot secret here or use other methods
+
 game_started = False
 word = ''
 category = ''
-guessed = set(' ')
+guessed = set([' ', '(', ')', "'"])
 guessed_answers = set()
 wrong_guesses = 0
-
-BOT = ''  # put your bot secret here or use your own ways
 
 CATEGORIES = ['Fruits', 'Minecraft_Blocks', 'Minecraft_Items']
 ALIASES = {'FRUITS': 'Fruits',
@@ -243,7 +243,7 @@ async def guess(context, *submission):
                                '!  You lost! 😫 😭\n\n' +
                                '**Play a new game by sending "!play {category}" or "!start {category}"**')
             game_started = False
-            guessed = set(' ')
+            guessed = set([' ', '(', ')', "'"])
             wrong_guesses = 0
             print('Game end! 6 tries up. Answer is  ' + '  '.join([i for i in list(word)]) + '!')
             word = ''
@@ -262,7 +262,7 @@ async def guess(context, *submission):
                                    'Congratulations on guessing correctly and winning!  🎉\n\n' +
                                    '**Play a new game by sending "!play {category}" or "!start {category}"**')
                 game_started = False
-                guessed = set(' ')
+                guessed = set([' ', '(', ')', "'"])
                 wrong_guesses = 0
                 print('Game end! WON! Answer is  ' + '  '.join([i for i in list(word)]) + '!')
                 word = ''
@@ -322,7 +322,7 @@ async def stop(stop_context):
         game_started = False
         print('game quit.')
         word = ''
-        guessed = set(' ')
+        guessed = set([' ', '(', ')', "'"])
         wrong_guesses = 0
         await stop_context.send('Game quit! Type "!play {category}" or "!start {category}" to play a round of HANGMAN.')
 
@@ -338,9 +338,9 @@ async def quit_game(quit_context):
         game_started = False
         print('game quit.')
         word = ''
-        guessed = set(' ')
+        guessed = set([' ', '(', ')', "'"])
         wrong_guesses = 0
         await quit_context.send('Game quit! Type "!play {category}" or "!start {category}" to play a round of HANGMAN.')
 
 
-bot.run(BOT)
+bot.run(BOT_KEY)
