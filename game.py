@@ -5,7 +5,7 @@ import secrets
 from discord.ext import commands
 
 print('start')
-bot = commands.Bot(command_prefix='x_x:')
+bot = commands.Bot(command_prefix='x_x: ')
 client = discord.Client()
 
 BOT_KEY = ''  # put your bot secret here or use other methods
